@@ -1,5 +1,6 @@
 # FirebaseChat
-Chat application using Firebase framework to store and retrieve the message content
+Chat application using Firebase framework to store and retrieve the message content.
+
 Application is implemented using SwiftUI
 
 
